@@ -1,4 +1,4 @@
-**Artificial Intelligence laboratory works:
+#Artificial Intelligence laboratory works:
 1) Genetic Algorithm: solving the traveling salesman problem using genetic
 algorithms.
 2) Hopfield Net: implementing Hopfield Neural Net from scratch in python and
